@@ -1,4 +1,7 @@
 {
+   "Authorize": {
+    "token": "string"
+  },
   "Post": {
     "title": "string",
     "views": "int",
@@ -9,5 +12,5 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  },
+  }
 }
